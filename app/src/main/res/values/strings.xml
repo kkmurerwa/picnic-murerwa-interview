@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">picnic-murerwa-interview</string>
+    <string name="search">Search</string>
+    <string name="search_results">Search results:</string>
+    <string name="random_selected_gif">Random selected GIF:</string>
+    <string name="no_gif_found">No GIF found</string>
+    <string name="no_title">No title</string>
+    <string name="tag_gif_title">tag_gif_title</string>
+    <string name="tag_gif_url">tag_gif_url</string>
+    <string name="tag_gif_age_rating">tag_gif_age_rating</string>
+    <string name="tag_gif_image">tag_gif_image</string>
+    <string name="tag_empty_result_image">tag_empty_result_image</string>
+    <string name="tag_empty_result_text">tag_empty_result_text</string>
+    <string name="tag_search_bar">tag_search_bar</string>
+    <string name="tag_back_arrow">tag_back_arrow</string>
+    <string name="tag_clear_icon">tag_clear_icon</string>
+    <string name="tag_search_bar_component">tag_search_bar_component</string>
+    <string name="tag_gif_component">tag_gif_component</string>
+    <string name="tag_search_list_component">tag_search_list_component</string>
+    <string name="gif_details_screen">Gif Details Screen</string>
+    <string name="tag_search_lazy_list">tag_search_lazy_list</string>
+</resources>
